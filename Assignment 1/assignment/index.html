@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyARtT3sC16BsOzSiNfceuRMe-JFhkDDrFI&libraries=places"></script>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script defer src="js/main.js"></script>
+    <link rel="stylesheet" href="css/styles.css"/>
+    <title>Queensland Tourism Assignment - Matthew Prendergast (s5283740)</title>
+</head>
+
+<body>
+    <!-- HEADER SECTION -->
+    <header>
+
+        <!-- MENU OPTIONS SECTION -->
+        <div class="header-left">
+
+            <!-- DESKTOP MENU -->
+            <ul class="desktop-menu-items">
+                <li><a class="homepage-link">Home</a></li>
+                <li>
+                    <a class="destinations-menu">Destinations</a>
+                    <div>
+                        <ul class="dropdown-menu">
+                            <!-- INSERT THE MENU ITEMS FROM THE DATABASE HERE -->
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+
+            <!-- MOBILE MENU + BUTTON ICONS -->
+            <div class="mobile-menu-icon">
+                <button id="mobile-open">
+                    <img src="images/hamburger-menu.png" alt="mobile-menu">
+                </button>
+            </div>
+            <div class="mobile-menu-closed">
+                <button id="mobile-closed">
+                    <img src="images/close-menu.png" alt="mobile-menu">
+                </button>
+            </div>
+            <div class="mobile-menu-section">
+                <ul class="mobile-menu-items">
+                    <li><a class="mobile-homepage-link">Home</a></li>
+                    <li>
+                        <p class="mobile-destinations-menu">Destinations</p>
+                        <div>
+                            <ul class="mobile-dropdown-menu">
+                                <!-- INSERT THE MENU ITEMS FROM THE DATABASE HERE -->
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+
+        <!-- HEADER LOGO -->
+        <div class="header-right">
+            <div>
+                <img class="header-logo homepage-link" src="images/Queensland Tourism - Logo.png"
+                    alt="Queensland Tourism">
+            </div>
+        </div>
+
+    </header>
+
+    <!-- MAIN CONTENT SECTION -->
+    <main>
+
+        <!-- HOMEPAGE BANNER SECTION -->
+        <section class="homepage-banner">
+            <div>
+                <img src="./images/Queensland Tourism - Banner.jpg" alt="Queensland Tourism">
+            </div>
+        </section>
+
+        <!-- HOMEPAGE CONTENT SECTION -->
+        <section class="homepage-content">
+            <div>
+                <h2>Queensland Tourism</h2>
+            </div>
+            <div>
+                <p>Welcome to Queensland, where the sun shines bright and adventure beckons at every turn. Nestled in
+                    the northeastern corner of Australia, Queensland is a land of boundless beauty, diverse landscapes,
+                    and endless possibilities for exploration. From the iconic coastline stretching over 7,000
+                    kilometers to the lush hinterlands and vibrant cities, Queensland offers a tapestry of experiences
+                    waiting to be discovered. Whether you're craving a relaxing beach getaway, an adrenaline-pumping
+                    adventure, or a cultural immersion, Queensland has something to offer every traveler.</p>
+                <p>Set your sights on the pristine beaches of the Gold Coast, where golden sands meet sparkling waters,
+                    perfect for surfing, swimming, or simply soaking up the sun. Dive into the vibrant underwater world
+                    of the Great Barrier Reef, one of the seven natural wonders of the world, teeming with colorful
+                    coral reefs and exotic marine life. Venture into the heart of the Queensland outback, where rugged
+                    landscapes and ancient rock formations tell stories of a land steeped in history and tradition.
+                    Explore the lush rainforests of the Daintree, home to an incredible array of flora and fauna,
+                    including unique wildlife found nowhere else on earth. Immerse yourself in the vibrant culture of
+                    Queensland's cities, from the cosmopolitan vibes of Brisbane to the laid-back charm of Cairns.
+                    Discover a rich tapestry of Indigenous heritage, vibrant arts scenes, and world-class dining and
+                    entertainment.</p>
+                <p>Whether you're seeking relaxation, adventure, or cultural discovery, Queensland invites you to embark
+                    on an unforgettable journey. Join us as we explore the beauty and diversity of Australia's Sunshine
+                    State, where every moment is a new adventure waiting to unfold.</p>
+            </div>
+        </section>
+
+        <!-- HOMEPAGE DESTINATION DISPLAY TILES -->
+        <section class="destination-section">
+            <div>
+                <h3>Top 10 Destinations</h3>
+            </div>
+            <div class="destination-list">
+                <!-- INSERT THE DESTINATION DISPLAY LIST FROM THE DATABASE HERE -->
+            </div>
+        </section>
+
+        <!-- HOMEPAGE RECENTLY VIEWED TILES -->
+        <section class="recently-viewed-section">
+            <div>
+                <h4>Recently Viewed</h4>
+            </div>
+            <div class="recently-viewed-list">
+                <!-- INSERT THE RECENTLY VIEWED IMAGES HERE -->
+            </div>
+        </section>
+
+        <!-- DESTINATION PAGE DISPLAY SECTION -->
+        <section>
+            <div class="destination-display-banner">
+                <!-- INSERT THE DESTINATION BANNER IMAGE HERE -->
+            </div>
+            <div class="destination-display-content">
+                <div>
+                    <!-- INSERT THE DESTINATION HEADER TITLE HERE -->
+                </div>
+                <div>
+                    <!-- INSERT THE DESTINATION LONG CONTENT HERE -->
+                </div>
+            </div>
+            <div class="destination-attractions-section">
+                <div class="destination-attraction-title">
+                    <!-- INSERT THE DESTINATION ATTRACTIONS TITLE HERE -->
+                </div>
+                <div class="destination-attractions-list">
+                    <!-- INSERT THE DESTINATION ATTRACTIONS LIST HERE -->
+                </div>
+            </div>
+            <div class="destination-photo-gallery">
+                <div>
+                    <h4>Photo Gallery</h4>
+                </div>
+                <div class="destination-gallery-section">
+                    <!-- INSERT THE DESTINATION THUMBNAIL IMAGES HERE -->
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- FOOTER SECTION -->
+    <footer>
+        <h3>By Matthew Prendergast (s5283740)</h3>
+    </footer>
+
+    <!-- MODAL SECTION -->
+    <div id="modal-container">
+        <span id="modal-close">&times;</span>
+        <img id="modal-content" src="" alt="">
+        <div id="modal-caption"></div>
+    </div>
+    
+</body>
+
+</html>

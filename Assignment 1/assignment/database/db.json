@@ -1,0 +1,94 @@
+{
+    "destinations": [
+        {
+            "name": "Brisbane",
+            "main_image": "15396687297",
+            "url": "#brisbane",
+            "lattitude": "-27.4698",
+            "longitude": "153.0251",
+            "short": "Brisbane, the vibrant capital of Queensland, offers a mix of urban sophistication and outdoor adventure. Explore cultural precincts, dine along the river, or hike Mount Coot-tha for panoramic city views.",
+            "long": "Brisbane, Queensland's vibrant capital, serves as a gateway to the state's magnificent attractions. This cosmopolitan city is nestled along the meandering Brisbane River, boasting a subtropical climate that fosters a year-round outdoor lifestyle. Visitors can explore the South Bank's lush parklands, swim in the Streets Beach, or indulge in the bustling cafe culture. The city's cultural precinct, including the Queensland Art Gallery and Gallery of Modern Art, offers a deep dive into Australia's art scene.<br><br>Venturing further, the Story Bridge adventure climb offers panoramic views of the city, while the nearby Lone Pine Koala Sanctuary provides encounters with Australia's native wildlife. Brisbane seamlessly blends urban sophistication with natural beauty, making it an essential stop for any traveller to Queensland. Its friendly atmosphere and array of attractions cater to all types of tourists, from art lovers to adventure seekers."
+        },
+        {
+            "name": "Cairns",
+            "main_image": "14221338928",
+            "url": "#cairns",
+            "lattitude": "-16.9186",
+            "longitude": "145.7781",
+            "short": "Cairns is the gateway to the Great Barrier Reef and the Daintree Rainforest. Dive into underwater wonders, explore lush rainforests, and discover vibrant nightlife and cultural experiences.",
+            "long": "Cairns, a tropical city in Far North Queensland, is renowned as the gateway to the Great Barrier Reef and the Wet Tropics World Heritage Rainforest. This city is a hotbed of adventure tourism, offering everything from snorkelling and scuba diving in the reef to skydiving and bungee jumping. Cairns' Esplanade, lined with bars, restaurants, and a saltwater lagoon, is the perfect place to relax after a day of adventure.<br><br>Beyond its adventurous allure, Cairns provides access to the ancient Daintree Rainforest and the tranquil Atherton Tablelands. The city's tropical climate and friendly vibe make it an ideal base for exploring Queensland's natural wonders. Whether you're here to dive amongst coral reefs or to discover the oldest rainforest on earth, Cairns offers an unforgettable tropical experience."
+        },
+        {
+            "name": "Daintree Rainforest",
+            "main_image": "52015608401",
+            "url": "#daintree-rainforest",
+            "lattitude": "-16.2500",
+            "longitude": "145.3179",
+            "short": "The Daintree Rainforest is the oldest tropical rainforest in the world, home to unique flora and fauna. Explore hiking trails, take a river cruise, or learn about Aboriginal culture and heritage.",
+            "long": "The Daintree Rainforest, one of the planet's oldest rainforests, is a living museum of flora and fauna that has remained unchanged for millions of years. Located north of Cairns, it's a place where tropical rainforest meets the reef, offering a rare combination of natural beauty. Visitors can explore the dense jungle, crystal-clear streams, and dramatic gorges through guided walks, canopy tours, or river cruises.<br><br>Home to an incredible array of wildlife, including the cassowary, crocodiles, and unique insect species, the Daintree is a nature lover's paradise. Its ancient ferns, emerald green vines, and dense canopy provide a glimpse into the prehistoric world, making it an essential experience for any visitor to Far North Queensland."
+        },
+        {
+            "name": "Fraser Island",
+            "main_image": "50703670248",
+            "url": "#fraser-island",
+            "lattitude": "-25.2667",
+            "longitude": "153.1333",
+            "short": "Fraser Island is a natural paradise, renowned for its stunning beaches, freshwater lakes, and lush rainforests. Explore the island's unique landscapes, go four-wheel driving, or spot dingoes and other wildlife.",
+            "long": "Fraser Island, the world's largest sand island, is a unique paradise of ancient rainforests, crystal clear lakes, and over 120 kilometres of golden beaches. This World Heritage-listed site is famous for its remarkable biodiversity, including dingoes, over 300 species of birds, and a variety of marine life. The island's iconic spots, like Lake McKenzie with its pure silica sand and turquoise water, and the rusting wreck of the SS Maheno, are must-visit landmarks.<br><br>Accessible by ferry, Fraser Island offers a variety of outdoor activities, from hiking through lush rainforests to 4WD adventures along the Seventy-Five Mile Beach. Its natural beauty, combined with the adventure of exploring this vast sand island, makes Fraser Island an unforgettable destination for nature lovers and adventure seekers alike."
+        },
+        {
+            "name": "Gold Coast",
+            "main_image": "475121662",
+            "url": "#gold-coast",
+            "lattitude": "-28.0167",
+            "longitude": "153.4000",
+            "short": "Known for its golden beaches and thrilling theme parks, the Gold Coast is a playground for sun-seekers and adrenaline junkies alike. Experience world-class surfing, entertainment, and nightlife.",
+            "long": "The Gold Coast is famed for its spectacular beaches, thrilling theme parks, and vibrant nightlife. This coastal city combines skyscraper skyline views with soft, golden sands and rolling waves, making it a paradise for surfers and beachgoers. From the iconic Surfers Paradise beach to the tranquil hinterland, the Gold Coast offers a diverse range of activities, including shopping at Pacific Fair, dining in trendy beachfront cafes, and exploring the lush rainforests of the hinterland.<br><br>Adventure enthusiasts will find plenty to do with theme parks like Warner Bros. Movie World and Dreamworld offering adrenaline-pumping rides. The Gold Coast also hosts major sporting events and cultural festivals, adding to its lively atmosphere. Whether seeking relaxation on the beach or excitement in the theme parks, the Gold Coast caters to all desires, making it a must-visit destination in Queensland."
+        },
+        {
+            "name": "Great Barrier Reef",
+            "main_image": "15342012480",
+            "url": "#great-barrier-reef",
+            "lattitude": "-16.4760",
+            "longitude": "146.9153",
+            "short": "One of the world's natural wonders, the Great Barrier Reef is a haven for snorkelers and divers. Discover vibrant coral reefs, marine life, and breathtaking underwater landscapes.",
+            "long": "The Great Barrier Reef, one of the seven wonders of the natural world, stretches over 2,300 kilometres along the Queensland coast. This living masterpiece is so vast it can be seen from outer space, comprising thousands of reefs, hundreds of islands, and over 600 types of hard and soft corals. It's a snorkeler's and diver's paradise, offering a kaleidoscope of marine life, including colourful fish, turtles, dolphins, and sharks.<br><br>Visitors can explore the reef through snorkelling, diving, glass-bottom boats, and helicopter tours, each offering a unique perspective on this natural wonder. The Great Barrier Reef is not only a hotspot for adventure and exploration but also a vital part of the ocean's ecosystem. Its sheer beauty and ecological importance make it a must-visit for anyone traveling to Queensland."
+        },
+        {
+            "name": "Lamington National Park",
+            "main_image": "51065701481",
+            "url": "#lamington-national-park",
+            "lattitude": "-28.2292",
+            "longitude": "153.1178",
+            "short": "Lamington National Park is a UNESCO World Heritage-listed rainforest, known for its spectacular waterfalls, ancient trees, and diverse wildlife. Explore walking tracks, go birdwatching, or relax in luxury eco lodges.",
+            "long": "Lamington National Park, part of the Gondwana Rainforests of Australia World Heritage Area, is a haven of biodiversity. Located in the Gold Coast hinterland, it offers over 160 kilometres of walking trails that weave through ancient rainforests, past cascading waterfalls, and along craggy mountain ridges. The park is renowned for its birdlife, with over 230 species recorded, making it a birdwatcher's paradise.<br><br>The park's two sections, Green Mountains and Binna Burra, offer distinct experiences, from the stunning views at Moran's Falls to the challenging hikes leading to Coomera and Toolona Creek's spectacular waterfalls. Lamington National Park is a place of natural beauty and tranquility, offering a respite from the hustle and bustle of city life and an opportunity to reconnect with nature."
+        },
+        {
+            "name": "Port Douglas",
+            "main_image": "53557564035",
+            "url": "#port-douglas",
+            "lattitude": "-16.4833",
+            "longitude": "145.4667",
+            "short": "Port Douglas is a charming seaside town known for its boutique shops, gourmet dining, and access to the Great Barrier Reef and Daintree Rainforest. Relax on Four Mile Beach or embark on a reef or rainforest adventure.",
+            "long": "Port Douglas is a quaint resort town in Far North Queensland, famed for its atmosphere, proximity to the Great Barrier Reef, and the Daintree Rainforest. This tropical paradise offers a sophisticated yet laid-back holiday experience, with Four Mile Beach's sweeping sands and crystal-clear waters being a highlight. The town's Macrossan Street is lined with exquisite restaurants, boutique shops, and galleries, reflecting the area's charm.<br><br>Adventurers and nature enthusiasts will find Port Douglas an ideal base for exploring the Great Barrier Reef's underwater wonders and the Daintree's ancient rainforests. Whether you're here for the natural beauty, the vibrant community, or the luxurious resorts, Port Douglas promises a memorable tropical getaway."
+        },
+        {
+            "name": "Sunshine Coast",
+            "main_image": "2119353619",
+            "url": "#sunshine-coast",
+            "lattitude": "-26.6500",
+            "longitude": "153.0667",
+            "short": "With its laid-back lifestyle and pristine beaches, the Sunshine Coast is perfect for relaxation and outdoor activities. Explore coastal trails, visit wildlife sanctuaries, and indulge in local cuisine.",
+            "long": "The Sunshine Coast is a blend of pristine beaches, scenic hinterlands, and charming coastal towns. It offers a more relaxed alternative to its southern neighbour, the Gold Coast, focusing on natural beauty and a laid-back lifestyle. Visitors can enjoy the tranquil beaches of Noosa, Coolum, and Mooloolaba, or explore the quaint hinterland villages of Montville and Maleny, known for their arts and crafts, wineries, and panoramic views.<br><br>For nature lovers, the Sunshine Coast offers the Glass House Mountains, a series of dramatic volcanic peaks offering hiking trails and breathtaking vistas. The region's climate is perfect for outdoor activities, making it a year-round destination for those seeking a peaceful retreat in nature. With its unique blend of beach and bush, the Sunshine Coast is an idyllic destination for travelers seeking both relaxation and adventure."
+        },
+        {
+            "name": "Whitsunday Islands",
+            "main_image": "40086453403",
+            "url": "#whitsunday-islands",
+            "lattitude": "-20.2833",
+            "longitude": "148.7167",
+            "short": "The Whitsundays are a tropical paradise of pristine beaches, secluded coves, and crystal-clear waters. Sail around the islands, snorkel the Great Barrier Reef, or relax at luxury resorts.",
+            "long": "The Whitsunday Islands, located in the heart of the Great Barrier Reef, are a collection of 74 tropical islands that are a quintessence of paradise. Known for their white sandy beaches, clear aquamarine waters, and lush rainforest, the islands offer a serene escape into nature. Whitehaven Beach, with its 7 kilometres of silica sand, is frequently ranked among the most beautiful beaches in the world.<br><br>Sailing is a popular way to explore the islands, offering a chance to discover secluded bays and hidden reefs. Whether it's relaxing on pristine beaches, snorkelling among vibrant coral reefs, or hiking on uninhabited islands, the Whitsundays provide a perfect backdrop for adventure and relaxation alike."
+        }
+    ]
+}
